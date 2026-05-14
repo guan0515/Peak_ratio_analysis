@@ -1,0 +1,2 @@
+# Ignore large data files to avoid GitHub 100MB limit
+*.mat
